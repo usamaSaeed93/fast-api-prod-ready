@@ -1,4 +1,4 @@
-# 🚀 FastAPI Enterprise Demo
+# 🚀 FastAPI Authentication Plug n Play
 
 A comprehensive, production-ready FastAPI application showcasing enterprise-grade Python development practices with advanced authentication, background job processing, and microservices architecture.
 
